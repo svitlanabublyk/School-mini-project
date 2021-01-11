@@ -1,0 +1,24 @@
+{
+  "name": "school-mini-project",
+  "version": "1.0.0",
+  "description": "school mini-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svitlanabublyk/School-mini-project.git"
+  },
+  "author": "svitlana bublyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svitlanabublyk/School-mini-project/issues"
+  },
+  "homepage": "https://github.com/svitlanabublyk/School-mini-project#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.12.0",
+    "@typescript-eslint/parser": "^4.12.0",
+    "eslint": "^7.17.0"
+  }
+}
